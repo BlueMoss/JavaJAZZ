@@ -1,0 +1,13 @@
+//package sec02;
+
+import javax.swing.JFrame;
+
+public class JavaSwing {
+	public static void main(String[] args) {
+		JFrame f = new JFrame( );
+
+		f.setTitle("Java Jazz, 스윙-Swing ! ");
+		f.setSize(300, 100);
+		f.setVisible(true);
+	}
+}
